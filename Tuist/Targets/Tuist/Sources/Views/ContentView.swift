@@ -13,6 +13,7 @@ struct ContentView: View {
         VStack {
             Text("Tuist Test")
             Image(systemName: "hand.thumbsup")
+            Text("첫번째 커밋입니다.")
         }
     }
 }
