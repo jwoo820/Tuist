@@ -1,5 +1,4 @@
 import SwiftUI
-import TuistUI
 
 @main
 struct TuistApp: App {

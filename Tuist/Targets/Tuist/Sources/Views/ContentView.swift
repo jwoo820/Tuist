@@ -14,6 +14,7 @@ struct ContentView: View {
             Text("Tuist Test")
             Image(systemName: "hand.thumbsup")
             Text("첫번째 커밋입니다.")
+            Text("ReactorKit Library 추가")
         }
     }
 }
